@@ -16,7 +16,7 @@ function Landing() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://img.lovepik.com/element/45010/3105.png_860.png" alt="..." /></div>
+                        <div className="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://cdni.iconscout.com/illustration/premium/thumb/todo-list-illustration-download-in-svg-png-gif-file-formats--checklist-task-food-drink-illustrations-2371075.png?f=webp" alt="..." /></div>
                     </div>
                 </div>
     </>
