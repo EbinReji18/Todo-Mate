@@ -7,8 +7,11 @@ function Home() {
   return (
     <>
       <div className="product-home" style={{ margin: "50px 0px" }}>
-        <h2 className='text-center'>Add Products</h2>
-        <Add />
+        
+        <div className='d-flex justify-content-center align-items-center'>
+          <Add />
+        </div>
+        
         <div className="d-flex justify-content-center align-items-center rounded tab-div">
         <View/>
           <p/>
